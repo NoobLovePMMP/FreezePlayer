@@ -1,0 +1,10 @@
+name: FreezePlayer
+api: 5.0.0
+version: 1.0.0
+main: Noob\FreezePlayer\FreezePlayer
+author: NoobMCGaming
+permissions:
+  freeze.cmd:
+    default: op
+  unfreeze.cmd:
+    default: op
